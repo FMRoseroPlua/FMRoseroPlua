@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Felipe+Rosero..&hearts;++;Self-taught+Python+Developer,;Mechatronic+engineer,;Data+Scientist,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
+![Alt text](https://drive.google.com/file/d/1h0qTJC6Ry0ejkjCs8Ir3jpJBkRjj0p3N/view?usp=sharing?raw=true "Optional Title")
 
 <!--
 **FMRoseroPlua/FMRoseroPlua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
