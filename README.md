@@ -39,3 +39,5 @@ Here are some ideas to get you started:
 </p>
 
 ## Connect with me
+My Social network are the next:
+
