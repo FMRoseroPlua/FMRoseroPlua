@@ -19,20 +19,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Debo actualizar
 ## About me
 - I'm a Python Programmer
 - Web Scrapping with bs4 and Selenium.
+- Supervised and unsupervised machine learning models
+- ETL process, Data Mining
+- Use of SQL and NoSQL Database
 - Development of GUI application using PyQt or Tkinter
-- Database 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Javascript, HTML, CSS
+- Engieniering and automatization
+- CAD/CAM/CAE
 
 ## Skills
 <!--tech stack icons-->
@@ -44,8 +40,9 @@ Debo actualizar
 
 ## Connect with me
 My Social network are the next:
-LinkedIn: 
-Facebook:
-Instagram:
+Gmail: felipem.roserop@gmail.com
+LinkedIn: www.linkedin.com/in/felipe-rosero-plúa-3467b7171
+Facebook: https://www.facebook.com/felipemiguel.roseroplua
+Instagram: https://www.instagram.com/felipaorp777/
 
 
