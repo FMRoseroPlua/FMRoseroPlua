@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 My Social network are the next:
 
 <div align= "center">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=felipem.roserop@gmail.com&su=Job Apply" target="blank"><img align="center" src="https://raw.github.com/FMRoseroPlua/FMRoseroPlua/main/gmail.png" alt="gmail" height="50" width="50" /></a>         
-<a href="www.linkedin.com/in/felipe-rosero-plúa-3467b7171" target="blank"><img align="center" src="https://raw.github.com/FMRoseroPlua/FMRoseroPlua/main/linkedin.png" alt="linkedin" height="50" width="50" /></a> 
-<a href="https://www.facebook.com/felipemiguel.roseroplua" target="blank"><img align="center" src="https://raw.github.com/FMRoseroPlua/FMRoseroPlua/main/facebook.png" alt="facebook" height="50" width="50" /></a> 
-<a href="vhttps://www.instagram.com/felipaorp777/" target="blank"><img align="center" src="https://raw.github.com/FMRoseroPlua/FMRoseroPlua/main/instagram.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=felipem.roserop@gmail.com&su=Job Apply" target="blank"><img align="center" src="https://raw.github.com/FMRoseroPlua/FMRoseroPlua/main/gmail.png" alt="gmail" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/felipe-rosero-plúa-3467b7171" target="blank"><img align="center" src="https://raw.github.com/FMRoseroPlua/FMRoseroPlua/main/linkedin.png" alt="linkedin" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/felipemiguel.roseroplua" target="blank"><img align="center" src="https://raw.github.com/FMRoseroPlua/FMRoseroPlua/main/facebook.png" alt="facebook" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://www.instagram.com/felipaorp777/" target="blank"><img align="center" src="https://raw.github.com/FMRoseroPlua/FMRoseroPlua/main/instagram.png" alt="instagram" height="50" width="50" /></a>
 </div>
 
