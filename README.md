@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,react,qt,html,css,ts,mongodb,mysql,postgres,sklearn,selenium,git,docker,github,linux,raspberrypi,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,react,qt,html,css,ts,mongodb,mysql,postgres,sklearn,selenium,git,docker,linux,raspberrypi,&perline=12" />
   </a>
 </p>
 
