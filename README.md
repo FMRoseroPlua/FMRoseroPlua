@@ -3,9 +3,9 @@
 <h2 align="center">Python Backend Developer | FastAPI | PostgreSQL | Data Engineering</h2>
 
 <p align="center">
-  <a href="https://feliperp-portfolio.onrender.com">🌐 Portfolio</a>
+  <a href="https://feliperp-portfolio.onrender.com" target="_blank">🌐 Portfolio</a>
   &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/felipe-rosero-plua">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/felipe-rosero-plua" target="_blank">💼 LinkedIn</a>
 </p>
 
 ---
@@ -40,7 +40,11 @@ Currently, I'm strengthening my skills in **Python backend development, FastAPI,
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <!-- <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt=""/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt=""/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/azure-sql-database/default.svg" width="45" alt=""/>
 </p>
 
 **PostgreSQL · MySQL · MongoDB · SQL · NoSQL**
@@ -48,15 +52,27 @@ Currently, I'm strengthening my skills in **Python backend development, FastAPI,
 ### Data Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py" />
+  <!-- <img src="https://skillicons.dev/icons?i=py" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/pandas/default.svg" width="45" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/numpy/default.svg" width="45" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/matplotlib/default.svg" width="45" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/data-analysis/default.svg" width="45" alt=""/>
+ 
 </p>
 
-**Pandas · NumPy · ETL · Data Processing · Data Analysis**
+**Pandas · NumPy · Matplotlib · ETL · Data Processing · Data Analysis**
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,html,css" />
+  <!-- <img src="https://skillicons.dev/icons?i=react,ts,html,css" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt=""/>
+
 </p>
 
 **React · TypeScript · JavaScript · HTML · CSS**
@@ -64,7 +80,13 @@ Currently, I'm strengthening my skills in **Python backend development, FastAPI,
 ### Tools & Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux" />
+  <!-- <img src="https://skillicons.dev/icons?i=git,docker,linux" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/uv/default.svg" width="45" alt=""/>
+
 </p>
 
 **Git · GitHub · Docker · Linux · uv**
