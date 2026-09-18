@@ -1,8 +1,115 @@
-<h1 align="center"><b>Hi , I'm Felipe Rosero Plúa</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="center">Python Developer & Data Engineering</h2>
-<!-- <img src= "https://raw.github.com/FMRoseroPlua/FMRoseroPlua/main/img.png"> -->
+<h1 align="center">Hi, I'm Felipe Rosero Plúa 👋</h1>
+
+<h2 align="center">Python Backend Developer | FastAPI | PostgreSQL | Data Engineering</h2>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Felipe+Rosero..&hearts;++;Self-taught+Python+Developer,;Mechatronic+engineer,;Data+Scientist,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://feliperp-portfolio.onrender.com">🌐 Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/felipe-rosero-plua">💼 LinkedIn</a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Python developer focused on **backend development and data engineering**, with a background in **Big Data and Mechatronics Engineering**.
+
+I enjoy building **REST APIs, data pipelines, and database-driven applications**, with a focus on clean, maintainable and practical solutions.
+
+Currently, I'm strengthening my skills in **Python backend development, FastAPI, SQL and data engineering** through hands-on projects.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p >
+  <!-- <img src="https://skillicons.dev/icons?i=py,fastapi,pydantic" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/pydantic/default.svg" width="45" alt="Pydantic"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="45" alt="SQLAlchemy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alembic/alembic-original.svg" width="45" alt=""/>
+</p>
+
+</p>
+
+**Python · FastAPI · Pydantic · SQLAlchemy · Alembic · REST APIs**
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+**PostgreSQL · MySQL · MongoDB · SQL · NoSQL**
+
+### Data Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py" />
+</p>
+
+**Pandas · NumPy · ETL · Data Processing · Data Analysis**
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,html,css" />
+</p>
+
+**React · TypeScript · JavaScript · HTML · CSS**
+
+### Tools & Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux" />
+</p>
+
+**Git · GitHub · Docker · Linux · uv**
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Data Engineering
+
+Building data pipelines focused on **data ingestion, transformation, processing and storage** using Python, SQL and PostgreSQL.
+
+### ⚡ Python Backend
+
+Developing REST APIs and backend applications using **FastAPI, Pydantic, SQLAlchemy, Alembic and PostgreSQL**.
+
+### 🪙 Data & API Projects
+
+Working with external APIs, data processing and database integration using **Python and Pandas**.
+
+> Check my pinned repositories to explore my projects.
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Python backend development
+* FastAPI architecture and best practices
+* SQL and PostgreSQL
+* Data Engineering and ETL
+* Testing and CI/CD
+* Docker and application deployment
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=felipem.roserop@gmail.com&su=Job%20Opportunity">
+    <img src="https://raw.github.com/FMRoseroPlua/FMRoseroPlua/main/gmail.png" alt="Gmail" height="45" width="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/felipe-rosero-plua">
+    <img src="https://raw.github.com/FMRoseroPlua/FMRoseroPlua/main/linkedin.png" alt="LinkedIn" height="45" width="45" />
+  </a>
 </p>
 
 <!--
@@ -15,37 +122,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## About me
-- I'm a Python Developer.
-- Web Scrapping with bs4 and Selenium.
-- Supervised and unsupervised machine learning models
-- ETL process, Data Mining
-- Use of SQL and NoSQL Database
-- Development of GUI application using PyQt or Tkinter
-- Javascript, HTML, CSS
-- Engieniering and automatization
-- CAD/CAM/CAE
-
-## Skills
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,react,qt,html,css,ts,mongodb,mysql,postgres,sklearn,selenium,git,docker,linux,raspberrypi,&perline=12" />
-  </a>
-</p>
-
-## Connect with me
-My Social network are the next:
-
-<div align= "center">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=felipem.roserop@gmail.com&su=Job Apply" target="blank"><img align="center" src="https://raw.github.com/FMRoseroPlua/FMRoseroPlua/main/gmail.png" alt="gmail" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/felipe-rosero-plua" target="blank"><img align="center" src="https://raw.github.com/FMRoseroPlua/FMRoseroPlua/main/linkedin.png" alt="linkedin" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <a href="https://www.facebook.com/felipemiguel.roseroplua" target="blank"><img align="center" src="https://raw.github.com/FMRoseroPlua/FMRoseroPlua/main/facebook.png" alt="facebook" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://www.instagram.com/felipaorp777/" target="blank"><img align="center" src="https://raw.github.com/FMRoseroPlua/FMRoseroPlua/main/instagram.png" alt="instagram" height="50" width="50" /></a> -->
-</div>
-
